@@ -1,0 +1,2 @@
+# angular
+basic about angularJS
